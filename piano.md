@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Piano Arrangements
+title: Piano Sheets
 subtitle: If you're looking for cool songs to play...
 ---
 
