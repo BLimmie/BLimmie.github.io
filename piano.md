@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Piano Arrangements
+subtitle: If you're looking for cool songs to play...
 ---
 
 # Freebird Games
@@ -16,7 +17,7 @@ title: Piano Arrangements
 # When Dreams Become Dreams
 This is a medley of various songs from JRPGS and similar games  
 [Full PDF](/music/When-Dreams-Become-Dreamsv1.2.pdf)  
-## Song List
+### Song List
 * Ocarina of Time - Zelda's Lullaby
 * Chrono Cross - Dreams of a Shore Near Another World
 * Chrono Cross - Star Stealing Girl
@@ -31,7 +32,7 @@ This is a medley of various songs from JRPGS and similar games
 This is a medley of various songs from adventure games  
 [Full PDF](/music/Insert_Generic_RPG_Name_Here_Full.pdf)  
 [Encore](/music/Jump-Up-Super-Star.pdf)
-## Song List
+### Song List
 * [Ori and the Blind Forest - Ori, Lost in the Storm](/music/Ori-Lost-in-the-Storm.pdf)
 * [Ori and the Blind Forest - Naru, Embracing the Light](/music/Naru-Embracing-the-Light.pdf)
 * Owlboy - Vellie
