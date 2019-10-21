@@ -20,7 +20,7 @@ description: Collection of my achievements and projects
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: ""
+  About Me: "/"
   Projects: "projects/"
   Hobby Pages:
     - Speedrunning: "speedrunning/"
