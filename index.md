@@ -15,7 +15,7 @@ At **Muncaster Consulting**, I worked with **FLIR**'s image processing and objec
 
 Check out my personal projects or hobbies in the navbar of my website!
 
-## Let's Connect
+## Links
 
 * Github: [@BLimmie](https://www.github.com/BLimmie)
 * LinkedIn: [@blimmie](https://www.linkedin.com/in/blimmie)
