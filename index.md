@@ -13,7 +13,7 @@ At **Workday**, I built a project taking metric logs from Workday's data sources
 
 At **Muncaster Consulting**, I worked with **FLIR**'s image processing and object detection SDK. I built the entire functional and performance testing suite that is still used to make sure their SDK is working deterministically and monitors changes to models' speed and accuracy.
 
-Check out my personal projects or hobbies in the navbar of my website!
+Check out my personal projects or hobbies in the navbar!
 
 ## Links
 
