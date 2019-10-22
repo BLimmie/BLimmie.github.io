@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Lasagne looks structured, but it's really just well disguised spaghetti
+subtitle: Lasagna looks structured, but it's really just well disguised spaghetti
 ---
 
 # Eyewire Automation
