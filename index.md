@@ -21,4 +21,4 @@ Check out my personal projects or hobbies in the navbar!
 * LinkedIn: [@blimmie](https://www.linkedin.com/in/blimmie)
 * Email: [brian01.lim@gmail.com](mailto:brian01.lim@gmail.com)
 
-## [Resume](/Resume.pdf) -- Last Updated: October 21, 2019
+## [Resume](/Resume.pdf?pdf=Resume) -- Last Updated: October 21, 2019
