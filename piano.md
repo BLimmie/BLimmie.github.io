@@ -4,6 +4,8 @@ title: Piano Sheets
 subtitle: If you're looking for cool songs to play...
 ---
 
+Songs in black do not have files associated with them. You can find them in the full medley.
+
 # Freebird Games
 * [A Bird Story - Main Theme](/music/A_Bird_Story.pdf)
 * [To the Moon - Main Theme](/music/To-The-Moon.pdf)
