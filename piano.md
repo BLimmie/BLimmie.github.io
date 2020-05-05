@@ -16,6 +16,8 @@ Songs in black do not have files associated with them. You can find them in the 
 * [ただ君に晴れ (Just a Sunny Day for You)](/music/ただ君に晴れ.pdf)
 * [神様のダンス (Dance of You)](/music/神様のダンス.pdf)
 * [ノーチラス (Nautilus)](/music/ノーチラス.pdf)
+* [花に亡霊 (Ghost in a Flower)](/music/花に亡霊.pdf)
+
 
 # When Dreams Become Dreams
 This is a medley of various songs from JRPGS and similar games  
