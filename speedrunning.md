@@ -16,5 +16,3 @@ Farewell IL - 34:23.902
 
 # Owlboy
 Any% - 50:40
-
-<iframe src="https://u2nvainvlx73h5a7cnxpiodpfcbmo1.ext-twitch.tv/u2nvainvlx73h5a7cnxpiodpfcbmo1/1.1.2/4f2444d531f6db06c8350f7ac3b1c678/viewer.html?anchor=panel&amp;language=en&amp;locale=en-US&amp;mode=viewer&amp;state=released&amp;platform=web&amp;popout=true" frameborder="0" style="height: 100%; width: 100%;" scrolling="yes" sandbox="allow-forms allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" allow="encrypted-media"></iframe>
