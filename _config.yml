@@ -21,6 +21,7 @@ description: Collection of my achievements and projects
 # List of links in the navigation bar
 navbar-links:
   About Me: "/"
+  Technical Skills: "skills/"
   Projects: "projects/hub/"
   Hobby Pages:
     - Speedrunning: "speedrunning/"
