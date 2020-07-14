@@ -180,7 +180,17 @@ function generateGraph(data) {
         })
         .transition()
         .duration(500)
-        .attr("width", d => x(d.value) - x(0));
+        .attr("width", d => x(d.value) - x(0))
+        .on('mouseover', function() {
+            d3.select(this)
+                .attr('fill', "rgb(39,83,172)");
+        })
+        .on('mouseout', function(d) {
+            d3.select(this)
+                .transition()
+                .duration(200)
+                .attr("fill", "rgb("+(38+(0-38)*d.value*0.2)+","+(255 + (96-255)*0.2*d.value)+"," + (155+(143-155)*0.2*d.value) + ")");
+        });
     var labels = svg.append("g")
         .attr("fill", "white")
         .attr("text-anchor", "end")
