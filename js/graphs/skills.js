@@ -206,7 +206,7 @@ function generateGraph(data) {
         .attr("dy", "0.35em")
         .attr("dx", -4)
         .text(d => d.name)
-        .call(text => text.filter(d => x(d.value) - x(0) < 130) // short bars
+        .call(text => text.filter(d => d.value < 1.0) // short bars
             .attr("dx", +4)
             .attr("fill", "black")
             .attr("text-anchor", "start"));
@@ -262,7 +262,7 @@ function generateGraph(data) {
                 .attr("dy", "0.35em")
                 .attr("dx", -4)
                 .text(d => d.name)
-                .call(text => text.filter(d => x(d.value) - x(0) < 130) // short bars
+                .call(text => text.filter(d => d.value < 1.0) // short bars
                     .attr("dx", +4)
                     .attr("fill", "black")
                     .attr("text-anchor", "start"));
