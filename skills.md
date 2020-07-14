@@ -8,7 +8,7 @@ subtitle: Made in D3
     <button type='button' id="None">All</button>
     <button type='button' id='Software Languages'>Software Languages</button>
     <button type='button' id="Data Science">Data Science</button>
-    <div style="line-height:60%;">
+    <div style="line-height:20%;">
         <br>
     </div>
     <button type='button' id="Backend Engineering">Backend Engineering</button>
