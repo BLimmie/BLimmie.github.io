@@ -63,7 +63,6 @@ const skills_data = [
         "value": 3,
         "tags": [
             "Software Languages",
-            "Data Science",
             "Backend Engineering"
         ]
     },
@@ -98,7 +97,8 @@ const skills_data = [
         "tags": [
             "Software Languages",
             "Databases",
-            "Backend Engineering"
+            "Backend Engineering",
+            "Data Science",
         ]
     },
     {
@@ -106,7 +106,8 @@ const skills_data = [
         "value": 3.1,
         "tags": [
             "Databases",
-            "Backend Engineering"
+            "Backend Engineering",
+            "Data Science",
         ]
     },
     {
