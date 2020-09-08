@@ -86,7 +86,7 @@ function update_table(result) {
     const columns = ["Category", "Place", "Time", "Date"];
     for (let t of tables) {
         const tableDiv = d3.select('#pb').append('div').attr('id', `tableContainer${t["table"]}`);
-        tableDiv.append('h4').text(t["table"])
+        tableDiv.append('h2').text(t["table"])
         const table = tableDiv.append('table').attr('class', 'table thead-dark table-bordered')
         const thead = table.append('thead')
         const tbody = table.append('tbody')
