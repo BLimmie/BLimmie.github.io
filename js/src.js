@@ -126,6 +126,8 @@ function httpGet(url) {
             let result = await clean(data)
             console.log(result)
             update_table(result)
+            let elem = document.getElementById('loading-img')
+            elem.parentNode.removeChild(elem)
         })
     })
 }
