@@ -9,7 +9,7 @@ title: Interlinked
 
 For my capstone project, I worked with a team of 5 and Intouch Health (now Teladoc) to create a web application that can serve as a medium between mental health patients and mental health providers. We built a real-time system that draws machine learning results from Google's Sentiment and Emotion APIs, and Openface Action Unit recognition library in order to provide doctors with real-time visualizations on the state of a patient during a mental health checkup so that they can learn and adapt to avoid trigger patients. We also stored the data collected during an appointment to provide doctors with more in depth summaries about a patient's past appointments and how they are progressing through their disease.  
 
-See the code at [this repository](https://github.com/BLimmie/Interlinked) and product design at [this link](https://capstone.cs.ucsb.edu/team_docs_20/prd2/intouch.pdf)
+See the code at [this repository](https://github.com/BLimmie/Interlinked) and product design at [this link](https://capstone.cs.ucsb.edu/team_docs_20/prd2/intouch.pdf), and the demonstration at [this link](https://ucsb.app.box.com/s/whroty4hfli0t3odk8c8fqy3hkijmsfj/file/634889935357).
 
 # Problems
 * Mental illness affects 1 in 5 adults and has a very negative stigma in the current world
