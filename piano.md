@@ -17,6 +17,7 @@ Songs in black do not have files associated with them. You can find them in the 
 * [神様のダンス (Dance of You)](/music/神様のダンス.pdf)
 * [ノーチラス (Nautilus)](/music/ノーチラス.pdf)
 * [花に亡霊 (Ghost in a Flower)](/music/花に亡霊.pdf)
+* [春泥棒 (Spring Thief)](/music/春泥棒.pdf)
 
 
 # When Dreams Become Dreams
