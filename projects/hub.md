@@ -3,6 +3,11 @@ layout: page
 title: Projects
 subtitle: Lasagna looks structured, but it's really just well disguised spaghetti
 ---
+# Manga Speech Bubble Ordering
+
+Class research project for multimodal sentence ordering, dealing with ordering manga speech bubbles for future translation uses. [Read More](/projects/manga/)
+
+______________________________
 # Interlinked
 ![](/img/intouch.jpg)
 
