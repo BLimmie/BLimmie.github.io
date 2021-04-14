@@ -52,7 +52,7 @@ const skills_data = [
     },
     {
         "name": "R",
-        "value": 3,
+        "value": 2,
         "tags": [
             "Software Languages",
             "Data Science"
@@ -68,7 +68,7 @@ const skills_data = [
     },
     {
         "name": "Scala",
-        "value": 2.6,
+        "value": 2.3,
         "tags": [
             "Software Languages",
             "Data Science",
@@ -103,7 +103,7 @@ const skills_data = [
     },
     {
         "name": "Graph DB",
-        "value": 3.1,
+        "value": 2.8,
         "tags": [
             "Databases",
             "Backend Engineering",
