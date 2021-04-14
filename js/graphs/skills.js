@@ -1,5 +1,25 @@
 const skills_data = [
     {
+        "name": "Git",
+        "value": 3.4,
+        "tags": []
+    },
+    {
+        "name": "Unix",
+        "value": 3.9,
+        "tags": [
+            "Backend Engineering"
+        ]
+    },
+    {
+        "name": "C#",
+        "value": 1.7,
+        "tags": [
+            "Backend Engineering",
+            "Software Languages"
+        ]
+    },
+    {
         "name": "Python",
         "value": 5,
         "tags": [
@@ -103,7 +123,7 @@ const skills_data = [
     },
     {
         "name": "Graph DB",
-        "value": 2.8,
+        "value": 2.4,
         "tags": [
             "Databases",
             "Backend Engineering",
@@ -112,7 +132,7 @@ const skills_data = [
     },
     {
         "name": "Docker",
-        "value": 2.9,
+        "value": 2.6,
         "tags": [
             "Cloud Tools",
             "Backend Engineering"
@@ -120,7 +140,7 @@ const skills_data = [
     },
     {
         "name": "AWS",
-        "value": 3.9,
+        "value": 3.2,
         "tags": [
             "Cloud Tools",
             "Backend Engineering"
@@ -128,7 +148,7 @@ const skills_data = [
     },
     {
         "name": "MongoDB",
-        "value": 3,
+        "value": 2.5,
         "tags": [
             "Databases",
             "Backend Engineering"
