@@ -23,6 +23,7 @@ navbar-links:
   About Me: "/"
   Technical Skills: "skills/"
   Projects: "projects/hub/"
+  Test: "test/"
   Hobby Pages:
     - Speedrunning: "speedrunning/"
     - Piano Transcriptions: "piano/"
