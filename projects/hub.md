@@ -40,8 +40,3 @@ ______________________________
 
 Proof of concept for webapp designed to crowdsource boba delivery to college students. [Read More](/projects/hastea/)
 
-______________________________
-
-# 4 Year Planner
-
-Proof of concept for creating a 4 year university planner for selecting classes. [Read More](/projects/cs48/)
