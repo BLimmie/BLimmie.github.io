@@ -22,6 +22,8 @@ navbar-links:
   About Me: "/"
   Technical Skills: "skills/"
   Projects: "projects/hub/"
+    - Manga Speech Bubble Ordering: "projects/manga/"
+    - Interlinked: "projects/interlinked"
   Hobby Pages:
     - Speedrunning: "speedrunning/"
     - Piano Transcriptions: "piano/"
