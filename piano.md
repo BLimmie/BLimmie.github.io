@@ -37,7 +37,7 @@ This is a medley of various songs from JRPGS and similar games
 # Insert Generic RPG Name Here
 This is a medley of various songs from adventure games  
 [Full PDF](/music/Insert_Generic_RPG_Name_Here_Full.pdf)  
-[Encore](/music/Jump-Up-Super-Star.pdf)
+[Encore](/music/Jump-Up-Super-Star.pdf) - by HAMNOKUNSEI: [Original](https://musescore.com/hamnokunsei/scores/4444136)
 ### Song List
 * [Ori and the Blind Forest - Ori, Lost in the Storm](/music/Ori-Lost-in-the-Storm.pdf)
 * [Ori and the Blind Forest - Naru, Embracing the Light](/music/Naru-Embracing-the-Light.pdf)
