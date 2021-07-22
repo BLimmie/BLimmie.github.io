@@ -17,6 +17,9 @@ At **Muncaster Consulting**, I worked with **FLIR**'s image processing and objec
 
 Check out my personal projects or hobbies in the navbar!
 
+My Dijkstra number is 5.  
+My Erdős number is 4.
+
 ## Links
 
 * Github: [@BLimmie](https://www.github.com/BLimmie)
