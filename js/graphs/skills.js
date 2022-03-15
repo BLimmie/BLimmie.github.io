@@ -2,7 +2,9 @@ const skills_data = [
     {
         "name": "Rust",
         "value": 4.5,
-        "tags": []
+        "tags": [
+            "Software Languages"
+        ]
     },
     {
         "name": "Git",
