@@ -3,7 +3,7 @@ const skills_data = [
         "name": "Rust",
         "value": 4.5,
         "tags": []
-    }
+    },
     {
         "name": "Git",
         "value": 3.4,
