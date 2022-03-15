@@ -1,5 +1,10 @@
 const skills_data = [
     {
+        "name": "Rust",
+        "value": 4.5,
+        "tags": []
+    }
+    {
         "name": "Git",
         "value": 3.4,
         "tags": []
@@ -31,7 +36,7 @@ const skills_data = [
     },
     {
         "name": "Golang",
-        "value": 4.3,
+        "value": 4.1,
         "tags": [
             "Software Languages",
             "Backend Engineering"
