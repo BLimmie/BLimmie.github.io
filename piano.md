@@ -6,6 +6,10 @@ subtitle: If you're looking for cool songs to play...
 
 Songs in black do not have files associated with them. You can find them in the full medley.
 
+# JPOP
+* [MAKE UP TRUE - NEGI U](/music/makeuptrue.pdf)
+* [例えば - 花譜](/music/例えば.pdf)
+
 # Freebird Games
 * [A Bird Story - Main Theme](/music/A_Bird_Story.pdf)
 * [To the Moon - Main Theme](/music/To-The-Moon.pdf)
