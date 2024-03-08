@@ -26,5 +26,5 @@ My Erdős number is 4.
 * LinkedIn: [@blimmie](https://www.linkedin.com/in/blimmie)
 * Email: [brian01.lim@gmail.com](mailto:brian01.lim@gmail.com)
 
-## [Resume](/brian_lim_resume.pdf) -- Last Updated: April 27, 2023
+## [Resume](/brian_lim_resume.pdf) -- Last Updated: March 7, 2024
 
